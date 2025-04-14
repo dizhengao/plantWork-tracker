@@ -40,7 +40,7 @@ Below is a screenshot of my own spreadsheet at the time of writing this.
 
 ## Quick Start
 
-1. Download the most recent release here #todo.
+1. Download the [excel](https://github.com/dizhengao/plantWork-tracker/releases/download/v1.0/plantWork-tracker_v1.0.xlsx) file from the most recent release.
 2. Check if the action points and timings are suitable for your plants. You can change the action windows and preset ages in the “Action” tab. The current preset ages are based on Arabidopsis Col-0 wild type plants growing at **16h light/8h dark cycle, 220 uMol light, 20~22oC**.
 3. Making a copy of the 'Empty entry' line and adding the **Start Date** is all you need really! Once it is filled in you will see dates for all the actions coming out. If you want to record more information (recommended!), then fill in ID, Purpose, Genotype, and Location.
 4. When an action is performed, fill in the date in the last column of the action. Also write "Done"/"pass"/"na" in the status column. The color will be updated automatically.
